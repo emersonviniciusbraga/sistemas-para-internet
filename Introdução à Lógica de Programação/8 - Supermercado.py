@@ -52,6 +52,4 @@ while True:
 
             print("\nTotal: {:>25.2f}".format(total))
             break
-    # elif continuar.lower() != 's' and continuar.lower() != 'n':
-    #     print('Digite novamente! ', end="")
-    #     continuar = input('Quer inserir outro produto?S/N ')
+            
